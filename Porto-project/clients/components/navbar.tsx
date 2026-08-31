@@ -76,7 +76,7 @@ export default function Navbar() {
               font-extrabold
               transition-all
               duration-400
-              hover:scale-106
+              hover:scale-105
               hover:text-white
               xl:h-10
               xl:w-35
