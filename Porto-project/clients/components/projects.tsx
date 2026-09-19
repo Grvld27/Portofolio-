@@ -113,7 +113,7 @@ return(
 
 
 
-<div className="grid grid-cols-3 gap-10 items-center justify-center xl:mt-10 ">
+<div className="grid grid-cols-3 gap-10 xl:ml-10 xl:mt-10 ">
 
 
 
